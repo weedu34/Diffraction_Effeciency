@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 
 ## Wiki pages
-To read the all the documents, You can visit the [Wiki_Pages]https://github.com/weedu34/Diffraction_Effeciency/wiki)
+To read the all the documents, You can visit the [Wiki_Pages](https://github.com/weedu34/Diffraction_Effeciency/wiki)
 
 
 
