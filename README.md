@@ -1,12 +1,5 @@
 # Diffraction_Effeciency
-This repository allows you to calculate the diffraction efficiency of DOE.
-# Diffraction Efficiency
-
-This project utilizes a specific Python environment named `diffraction_efficiency`. Please follow the steps below to set up the environment and install the required dependencies.
-
-# Diffraction Efficiency
-
-This project utilizes a specific Python environment managed by Anaconda. Please follow the steps below to set up the environment and install the required dependencies.
+This repository allows you to calculate the diffraction efficiency of DOE. Please follow the steps below to set up the environment and install the required dependencies.
 
 ## Environment Setup
 
@@ -53,6 +46,6 @@ pip install -r requirements.txt
 
 
 
-
+## Notes
 
 - take laser measurement without any DOE so that we can take it as reference and use it afterwards in the whole process for that particular laser.
